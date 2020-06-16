@@ -1,0 +1,15 @@
+{
+  "name": "floxusnewsleter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://totorodev0032.github.io/floxusnewsletter",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
